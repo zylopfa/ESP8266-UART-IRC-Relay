@@ -48,6 +48,11 @@ logic.
 On the MCU you have to setup UART and setup interrupt handler to handle incomming commands.
 
 
+## Connect ESP8266
+
+![How to connect ESP8266 to MCU](images/ESP8266-pinout-annotated.png "How to connect to ESP8266 via UART")
+
+
 ## Notes
 
 This program contain a few extra irc commands a its based on my earlier work, it will
