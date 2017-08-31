@@ -53,3 +53,5 @@ On the MCU you have to setup UART and setup interrupt handler to handle incommin
 This program contain a few extra irc commands a its based on my earlier work, it will
 be cleaned up in the future, to only contain the UART functionality.
 
+Main program is in "user/user_main.c"
+
